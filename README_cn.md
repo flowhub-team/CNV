@@ -1,4 +1,5 @@
 # CNV
+[English](https://github.com/flowhub-team/CNV/blob/main/README.md)
 
 CNV是染色体结构变异的一种形式，全称为染色体拷贝数变异（Copy Number Variation）。染色体是细胞内的遗传物质，它们携带了个体的遗传信息。正常情况下，每个染色体应该有两个拷贝（一对）存在，其中一个来自母亲，另一个来自父亲。然而，由于遗传、环境和随机事件的影响，染色体的拷贝数可能发生变异，这就是CNV。
 
