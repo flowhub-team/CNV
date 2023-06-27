@@ -2,19 +2,19 @@
 
 [中文版](https://github.com/flowhub-team/CNV/blob/main/README_cn.md)
 
-CNV是染色体结构变异的一种形式，全称为染色体拷贝数变异（Copy Number Variation）。染色体是细胞内的遗传物质，它们携带了个体的遗传信息。正常情况下，每个染色体应该有两个拷贝（一对）存在，其中一个来自母亲，另一个来自父亲。然而，由于遗传、环境和随机事件的影响，染色体的拷贝数可能发生变异，这就是CNV。
+CNV is a form of chromosomal structural variation, which stands for Copy Number Variation. Chromosomes are the genetic material within cells that carry an individual's genetic information. Under normal circumstances, each chromosome should have two copies (a pair), one inherited from the mother and the other from the father. However, due to genetic, environmental, and random events, the copy number of chromosomes can undergo variation, which is referred to as CNV.
 
-CNV是一种常见的遗传变异类型，它可以在人类和其他生物种群中广泛存在。它可能影响染色体上的几个基因、一整个基因或者多个基因。CNV的大小可以从数千个碱基对到数百万个碱基对不等。
+CNV is a common type of genetic variation that can be found widely in human and other biological populations. It may affect several genes, a whole gene, or multiple genes on a chromosome. The size of CNV can range from a few thousand base pairs to several million base pairs.
 
-CNV可以分为两类：拷贝数增加（CNV增加）和拷贝数减少（CNV减少）。拷贝数增加指的是染色体上特定区域的拷贝数超过正常的两个，而拷贝数减少指的是拷贝数少于两个。这些变异可能是遗传的，也可能是在个体的发育过程中发生的。
+CNV can be classified into two categories: copy number gain (CNV gain) and copy number loss (CNV loss). CNV gain refers to the copy number exceeding the normal two copies in a specific region of a chromosome, while CNV loss refers to a copy number below two. These variations can be inherited or occur during an individual's developmental process.
 
-CNV的影响可能是有益的、中性的或者有害的。有益的CNV可能增加某些基因的拷贝数，从而增强某种特定的功能。例如，在人类中，CNV增加在免疫系统基因的拷贝数可能提高抵抗疾病的能力。然而，有害的CNV可能导致某些基因的丧失，从而引发遗传性疾病或其他疾病。
+The impact of CNV can be beneficial, neutral, or detrimental. Beneficial CNV may increase the copy number of certain genes, thereby enhancing specific functions. For example, in humans, CNV gain in immune system genes may improve disease resistance. However, detrimental CNV can lead to the loss of certain genes, resulting in genetic disorders or other diseases.
 
-CNV的检测方法包括多种分子生物学和遗传学技术，例如基因芯片、串联PCR（Polymerase Chain Reaction）和基因组测序。通过这些技术，研究人员可以识别CNV的存在、定位和准确的拷贝数。
+Various molecular biology and genetics techniques are used to detect CNV, including gene chips, multiplex polymerase chain reaction (PCR), and genome sequencing. Through these techniques, researchers can identify the presence of CNV, locate its position, and determine the accurate copy number.
 
-CNV在遗传学研究、个体基因组学和疾病研究中扮演着重要的角色。它们可以作为疾病的遗传风险因素，也可以用作个体间的遗传变异研究。通过研究CNV与特定疾病之间的关联，我们可以更好地理解疾病的发生机制，并为疾病的诊断和治疗提供指导。
+CNV plays an important role in genetic research, individual genomics, and disease studies. They can serve as genetic risk factors for diseases and be used to study inter-individual genetic variations. By studying the association between CNV and specific diseases, we can gain a better understanding of the mechanisms underlying diseases and provide guidance for their diagnosis and treatment.
 
-总之，CNV是染色体结构变异的一种形式，它涉及染色体上基因的拷贝数增加或减少。CNV的存在对个体的遗传特征和疾病风险有着重要的影响，它在遗传学研究和疾病研究中具有广泛的应用价值。
+In conclusion, CNV is a form of chromosomal structural variation that involves an increase or decrease in the copy number of genes on chromosomes. The presence of CNV has significant implications for an individual's genetic traits and disease risk, and it holds broad applicability in genetic research and disease studies.
 
 ### 以下是一些常用的CNV分析工具和算法
 
