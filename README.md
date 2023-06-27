@@ -16,7 +16,7 @@ CNV plays an important role in genetic research, individual genomics, and diseas
 
 In conclusion, CNV is a form of chromosomal structural variation that involves an increase or decrease in the copy number of genes on chromosomes. The presence of CNV has significant implications for an individual's genetic traits and disease risk, and it holds broad applicability in genetic research and disease studies.
 
-### 以下是一些常用的CNV分析工具和算法
+### Here are some commonly used CNV analysis tools and algorithms:
 
 1. CNVnator: CNVnator is a commonly used sequencing-based CNV detection tool. It detects CNVs by calculating the variation in sequencing depth across different regions of the genome, based on differences in sequence coverage in the sequencing data. You can access the project through this [CNVator GitHub](https://github.com/abyzovlab/CNVnator)
 2. FREEC: FREEC is a software tool used for detecting chromosomal copy number variations. It utilizes the information from paired-end sequencing data to calculate the copy number in each genomic region and identifies CNVs by comparing differences between samples. You can access the project through this [FREEC GitHub](https://github.com/BoevaLab/FREEC)
